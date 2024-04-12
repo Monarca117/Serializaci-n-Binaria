@@ -75,7 +75,7 @@ namespace SBJugador
                 //Cerramos el stream
                 miStream.Close();
 
-                //Usamos el objeto
+                //Usamos el objet
                 Console.WriteLine("El jugador deserializado es ");
                 miJugador.MuestraInformacion();
 
